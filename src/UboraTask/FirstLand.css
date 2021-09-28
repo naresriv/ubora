@@ -1,0 +1,68 @@
+.main-landing{
+    width: 100%;
+    /* height: 1300px;  */
+    height: 100%;
+    background-image: url('assets/Homebg.png') ;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-color: #FFFFFF;
+    padding-bottom:15%;
+}
+.intro{
+    width: 60%;
+    height: 236px;
+    margin-left: 12%;
+    margin-top: 300px; 
+}
+.intro h1{
+    text-align: left;
+    font: normal normal 600 88px/124px Poppins;
+    letter-spacing: 0px;
+    color:  #2D80B5;
+    margin-top: 0px; 
+}
+.main-landing p{
+    width: 1000px;
+    height: 112px;
+    text-align: left;
+    font: normal normal medium 20px/27px Avenir Next;
+    letter-spacing: 0px;
+    color: #757575;
+    margin-left: 12%;
+    margin-top: 2%;
+    font-size: 24px;
+}
+.btn3, .btn4{
+    width: 259px;
+    height: 60px;
+    background: #2D80B5 0% 0% no-repeat padding-box;
+    border-radius: 30px;
+    opacity: 1;
+    font: normal normal 600 20px/1px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-top: 2%;
+    border: none;
+}
+.btn4{
+    background: #4FB8B6 0% 0% no-repeat padding-box;
+    margin-left: 50px;
+}
+.btn3{margin-left: 12%;}
+
+ .doctor{
+     position: absolute;
+     right: 11%;
+     top:10%;
+     width: 40%;
+ }
+ .cur{
+     position: absolute;
+   left:29%;
+    top:35%}  
+.arrow{
+    position: absolute;
+    right: 10%;
+    top:42%;
+} 
